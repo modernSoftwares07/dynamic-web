@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+}
+table, th, td {
+    border: 1px solid;
+  }
+.table-conetent{
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 30%;
+    width: 50%;
+}
+.content{
+    text-align: left;
+    width: 50% ;
+    margin-left: 10%;
+    margin-right: 30%;
+    background: rgb(122, 160, 139);
+}
+.form-content{
+    padding: 2%;
+}
+.button{
+    margin-top: 2%;
+}
